@@ -1,4 +1,4 @@
-# workspace-github-pages
+# mijinkosd.github.io
 
 Github Pagesを個人的に試すためのリポジトリ。
 
